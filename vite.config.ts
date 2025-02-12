@@ -18,7 +18,7 @@ export default defineConfig({
                manifest: {
                     // caches the assets/icons mentioned (assets/* includes all the assets present in your src/ directory)
                     name: "Simplifying Progressive Web App (PWA) Development with Vite: A Beginners Guide",
-                    short_name: "PWA Guide",
+                    short_name: "TaskDo",
                     start_url: "/",
                     background_color: "#ffffff",
                     theme_color: "#000000",
